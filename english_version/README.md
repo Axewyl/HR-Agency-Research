@@ -1,19 +1,19 @@
 # Project-2. Research of HR agency data using statistical tests in the context of EDA.
 
 ## Contents
-[1. Project Description](https://github.com/Axewyl/HR-Agency-Research/english_version/blob/master/README.md#Project-Description)
+[1. Project Description](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#Project-Description)
 
-[2. What case are we solving?](https://github.com/Axewyl/HR-Agency-Research/english_version/blob/master/README.md#What-case-are-we-solving)
+[2. What case are we solving?](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#What-case-are-we-solving)
 
-[3. Brief information about the data](https://github.com/Axewyl/HR-Agency-Research/english_version/blob/master/README.md#Brief-information-about-the-data)
+[3. Brief information about the data](https://github.com/Axewyl/HR-Agency-Research/english_version/tree/master/english_versionr/README.md#Brief-information-about-the-data)
 
-[4. Stages of work on the project](https://github.com/Axewyl/HR-Agency-Research/english_version/blob/master/README.md#Stages-of-work-on-the-project)
+[4. Stages of work on the project](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#Stages-of-work-on-the-project)
 
-[5. Result](https://github.com/Axewyl/HR-Agency-Research/english_version/blob/master/README.md#Results)
+[5. Result](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#Results)
 
-[6. Authors](https://github.com/Axewyl/HR-Agency-Research/english_version/blob/master/README.md#Authors)
+[6. Authors](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#Authors)
 
-[7. Conclusions](https://github.com/Axewyl/HR-Agency-Research/english_version/blob/master/README.md#Conclusions)
+[7. Conclusions](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#Conclusions)
 
 ### Project Description
 *HR*-the agency studies trends in the labor market in *IT*. The company wants to conduct a study based on data on salaries in the field of *Data Science* for 2020-2022 and get some conclusions.
@@ -55,7 +55,7 @@ The choice of the test depends on a number of factors:
 - make informed conclusions based on statistical testing.
 
 ### Brief information about the data
-Background information [здесь](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries).
+Background information [here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries).
 
 ### Stages of work on the project
 1. Familiarity with the data;
@@ -83,5 +83,5 @@ The result is the level of statistical significance (*p-value*) for each questio
 - The *experience_level* attribute affects the PO *Data Scientist*.
 - The *remote_ratio* attribute affects the PO *Data Scientist*, this is confirmed both graphically and statistically.
 
-:arrow_up:[Contents](https://github.com/Axewyl/HR-Agency-Research/english_version/blob/master/README.md#Contents)
+:arrow_up:[Contents](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#Contents)
 
