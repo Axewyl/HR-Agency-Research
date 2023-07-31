@@ -80,8 +80,8 @@ The result is the level of statistical significance (*p-value*) for each questio
 - There is not enough data to establish a connection between the presence of positions *Data Scientist* and *Data Engineer* and the size of the company.
 
 **Additional research:**
-- The *experience_level* attribute affects the PO *Data Scientist*.
-- The *remote_ratio* attribute affects the PO *Data Scientist*, this is confirmed both graphically and statistically.
+- The *experience_level* attribute affects the wages *Data Scientist*.
+- The *remote_ratio* attribute affects the wages *Data Scientist*, this is confirmed both graphically and statistically.
 
 :arrow_up:[Contents](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#Contents)
 
