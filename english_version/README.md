@@ -5,7 +5,7 @@
 
 [2. What case are we solving?](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#What-case-are-we-solving)
 
-[3. Brief information about the data](https://github.com/Axewyl/HR-Agency-Research/english_version/tree/master/english_versionr/README.md#Brief-information-about-the-data)
+[3. Brief information about the data](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#Brief-information-about-the-data)
 
 [4. Stages of work on the project](https://github.com/Axewyl/HR-Agency-Research/tree/master/english_version/README.md#Stages-of-work-on-the-project)
 
